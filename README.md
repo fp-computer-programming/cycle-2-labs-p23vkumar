@@ -11,3 +11,4 @@
 Read through the lab assignments in each powerpoint. Follow all instructions.
 
 <h3 align="center">Commit all files & changes before the deadline!</h3>
+
